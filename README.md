@@ -1,24 +1,9 @@
-# README
+# Predix Rails - Predix on Rails Backend and Polymer Frontend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Initialization
 
-Things you may want to cover:
+```ruby
+rails new predix_rails --api --database=postgresql
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Using postgres database
