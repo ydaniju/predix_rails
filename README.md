@@ -6,4 +6,5 @@
 rails new predix_rails --api --database=postgresql
 ```
 
-Using postgres database
+Using postgres database. I add rubocop to gemfile and bundle install
+ and fix all errors.
